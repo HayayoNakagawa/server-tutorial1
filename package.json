@@ -12,6 +12,6 @@
   "license": "ISC",
   "devDependencies": {
     "netlify-cli": "^17.37.2",
-    "vite": "^<version>"
+    "vite": "^5.4.11"
   }
 }
