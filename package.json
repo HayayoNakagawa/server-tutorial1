@@ -4,14 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "serve": "netlify functions:serve", 
-    "build": "vite build" 
+    "serve": "netlify functions:serve",
+    "build": "vite build"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "netlify-cli": "^17.37.2"
+    "netlify-cli": "^17.37.2",
+    "vite": "^5.4.11"
   }
 }
-
